@@ -1,6 +1,7 @@
 My First Project
 Added a description
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 # Git and Version Control Guide
@@ -58,3 +59,7 @@ Added a description
 This is branch-A change
 This is branch-A change
 >>>>>>> branch-A
+=======
+This is branch-B change
+This is branch-B change
+>>>>>>> branch-B
