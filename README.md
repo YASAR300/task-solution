@@ -1,5 +1,6 @@
 My First Project
 Added a description
+<<<<<<< HEAD
 
 
 # Git and Version Control Guide
@@ -53,3 +54,7 @@ Added a description
 
     ```bash
       git clone http://YASAR300/-repo
+=======
+This is branch-A change
+This is branch-A change
+>>>>>>> branch-A
